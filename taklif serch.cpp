@@ -1,3 +1,6 @@
+//my name is mohammad dehghani
+//برنامه ای که جست و جو یک عدد در آرایه 10 در 10 به صورت ستونی انجام میدهد
+
 #include <iostream>
 
 using namespace std;
